@@ -1,7 +1,8 @@
-<p align="center">
-
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
   
+  <img src="https://github.com/RangaRaju99/RangaRaju99/blob/main/github%20animation.gif?raw=true" alt="RangaAnime" width="400" height="300">
+</div>
 
 
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
@@ -20,6 +21,14 @@
 - 📫 How to reach me **rangabattula45@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
+- <p align="center">
+  <a href="https://rangaraju-bytes.lovable.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://chat.openai.com/share/file/PPXvy5EJbTm5Uk496oUQAk" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
+  </a>
+</p>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rangabattula45) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rangaraju-tech) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ranga-battula) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rangabattula45@gmail.com) 
 <h4 align="center">
